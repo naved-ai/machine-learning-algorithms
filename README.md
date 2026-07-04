@@ -1,2 +1,2 @@
-# breast-cancer-ml-project
+# machine-learning-algorithms
 
